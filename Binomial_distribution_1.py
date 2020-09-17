@@ -1,4 +1,4 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
+
 def fact(n):
     return 1 if n == 0 else n*fact(n-1)
 
