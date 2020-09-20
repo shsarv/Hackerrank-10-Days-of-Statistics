@@ -1,8 +1,9 @@
 # 10 Days of Statistics
 
 ### HackerRank 10 Days of Statistics tutorial problem Solution implemented in Python
+[![.](https://img.shields.io/github/watchers/shsarv/Hackerrank-10-Days-of-Statistics?color=blue&label=watches&logo=appveyor&logoColor=lightgreen&style=for-the-badge)](https://github.com/shsarv/Hackerrank-10-Days-of-Statistics)
 [![.](https://img.shields.io/badge/Hackerrank-10_Days_of_Statistics-brightgreen?style=for-the-badge)](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
-[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg?style=for-the-badge)](https://pypi.python.org/pypi/ansicolortags/) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg?style=for-the-badge)](https://pypi.python.org/pypi/ansicolortags/) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 <table>
 <tr>
   <td><h5>Day 0</h5></td>
@@ -80,5 +81,7 @@
 
 ### Author
 
-<a href="https://github.com/shsarv"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="70px;" alt=""/><br /><sub><b>Sarvesh Sharma</b></sub>
-[![GitHub commits](https://img.shields.io/github/commits-since/shsarv/Hackerrank-10-Days-of-Statistics)](https://GitHub.com/shsarv/Hackerrank-10-Days-of-Statistics/commit/)
+<a href="https://github.com/shsarv"><img src="https://avatars2.githubusercontent.com/u/55739302?s=400&u=1e7714cb1cbe3437a527a877486c94611f0e7ab0&v=4" width="70px;" alt=""/><br /><sub><b>Sarvesh Sharma</b></sub></a>
+<br>
+[![](https://img.shields.io/github/followers/shsarv?style=social)](https://github.com/shsarv)  <br>
+[![hello](https://img.shields.io/twitter/follow/sarveshroli?style=social)](https://twitter.com/sarveshroli)
