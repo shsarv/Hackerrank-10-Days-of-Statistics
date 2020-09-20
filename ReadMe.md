@@ -1,6 +1,7 @@
 # 10 Days of Statistics
 
-### HackerRank 10 Days of Statistics tutorial Solution implemented in Python
+### HackerRank 10 Days of Statistics tutorial problem Solution implemented in Python
+
 
 <table>
 <tr>
@@ -40,42 +41,42 @@
 </tr>
 <tr>
   <td><h5>Day 5</h5></td>
-   <td><a href="">Poisson Distribution 1</a></td>
-   <td><a href="">Poisson Ditribution 2</a></td>
-   <td><a href="">Normal Distribution 1</a></td>
-  <td><a href="">Normal Distribution 2</a></td>
+   <td><a href="https://github.com/shsarv/Hackerrank-10-Days-of-Statistics/blob/master/Poissoon_Distribution.py">Poisson Distribution 1</a></td>
+   <td><a href="https://github.com/shsarv/Hackerrank-10-Days-of-Statistics/blob/master/Poissoon_Distribution2.py">Poisson Ditribution 2</a></td>
+   <td><a href="https://github.com/shsarv/Hackerrank-10-Days-of-Statistics/blob/master/Normal_distribution1.py">Normal Distribution 1</a></td>
+  <td><a href="https://github.com/shsarv/Hackerrank-10-Days-of-Statistics/blob/master/Normal_distribution2.py">Normal Distribution 2</a></td>
 </tr>
 <tr>
   <td><h5>Day 6</h5></td>
-   <td><a href="">The Central Limit Theoram 1</a></td>
-   <td><a href="">The Central Limit Theoram 2</a></td>
-   <td><a href="">The Central Limit Theoram 3</a></td>
+   <td><a href="https://github.com/shsarv/Hackerrank-10-Days-of-Statistics/blob/master/The_central_limit_theoram.py">The Central Limit Theoram 1</a></td>
+   <td><a href="https://github.com/shsarv/Hackerrank-10-Days-of-Statistics/blob/master/The_central_limit_theoram2.py">The Central Limit Theoram 2</a></td>
+   <td><a href="https://github.com/shsarv/Hackerrank-10-Days-of-Statistics/blob/master/The_central_limit_theoram3.py">The Central Limit Theoram 3</a></td>
   <td><a href=""></a></td>
 </tr>
 <tr>
   <td><h5>Day 7</h5></td>
-   <td><a href="">Pearson Correlation Cofficient 1</a></td>
-   <td><a href="">Spearspan's rank Correlation Cofficient</a></td>
+   <td><a href="https://github.com/shsarv/Hackerrank-10-Days-of-Statistics/blob/master/Pearson_Correlation_Cofficients.py">Pearson Correlation Cofficient 1</a></td>
+   <td><a href="https://github.com/shsarv/Hackerrank-10-Days-of-Statistics/blob/master/Spearman's_Rank_Correlation.py">Spearspan's rank Correlation Cofficient</a></td>
    <td><a href=""></a></td>
   <td><a href=""></a></td>
 </tr>
 <tr>
   <td><h5>Day 8</h5></td>
-   <td><a href="">Least Square Regression Line</a></td>
-   <td><a href="">Pearson Correlation Cofficient 2</a></td>
+   <td><a href="https://github.com/shsarv/Hackerrank-10-Days-of-Statistics/blob/master/Least_square_regression.py">Least Square Regression Line</a></td>
+   <td><a href="https://github.com/shsarv/Hackerrank-10-Days-of-Statistics/blob/master/Pearson_Correlation_Cofficients_2.py">Pearson Correlation Cofficient 2</a></td>
    <td><a href=""></a></td>
   <td><a href=""></a></td>
 </tr>
 <tr>
   <td><h5>Day 9</h5></td>
-   <td><a href="">Multiple Linear Regression</a></td>
+   <td><a href="https://github.com/shsarv/Hackerrank-10-Days-of-Statistics/blob/master/Multiple_linear_regression.py">Multiple Linear Regression</a></td>
    <td><a href=""></a></td>
    <td><a href=""></a></td>
   <td><a href=""></a></td>
 </tr>
 </table>
 
-
+<hr>
 
 ### Author
 **Sarvesh**
