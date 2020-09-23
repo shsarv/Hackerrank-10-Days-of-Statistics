@@ -1,7 +1,7 @@
 # 10 Days of Statistics
 
 ### HackerRank 10 Days of Statistics tutorial problem Solution implemented in Python
-[![.](https://img.shields.io/github/watchers/shsarv/Hackerrank-10-Days-of-Statistics?color=blue&label=watches&logo=appveyor&logoColor=lightgreen&style=for-the-badge)](https://github.com/shsarv/Hackerrank-10-Days-of-Statistics)
+<!--[![.](https://img.shields.io/github/watchers/shsarv/Hackerrank-10-Days-of-Statistics?color=blue&label=watches&logo=appveyor&logoColor=lightgreen&style=for-the-badge)](https://github.com/shsarv/Hackerrank-10-Days-of-Statistics)-->
 [![.](https://img.shields.io/badge/Hackerrank-10_Days_of_Statistics-brightgreen?style=for-the-badge)](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg?style=for-the-badge)](https://pypi.python.org/pypi/ansicolortags/) [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) 
 <table>
